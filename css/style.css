@@ -1,0 +1,69 @@
+.menu-bar{
+
+    background-color: aquamarine;
+}
+
+.div1{
+    
+    height: 50%;
+    width: 50%;
+    display: inline-flex;
+}
+.div2{
+    height: 50%;
+    width: 50%;
+    
+}
+.div2 img{
+
+    height: 80%;
+    width: 80%;
+
+}
+.div3{
+    margin-top: 50px;
+}
+
+.logo a img{
+    width:60%;
+}
+
+.card-footer-penguin{
+    border: 0;
+    height: 20%;
+}
+.penguin-card{
+    border: 0;
+    box-shadow: 10px 20px 30px lightseagreen;
+}
+.penguin-card img{
+
+    background-color: rgb(194, 194, 194);
+    border-radius: 5px;
+    width: 100%;
+    height: 60%;
+
+}
+.penguin-card2{
+    border: 0;
+}
+
+.botom-div1{
+    font-size: 13px;
+}
+
+.logo2 img{
+    margin-right: 20px;
+}
+
+.cart img{
+
+    height: 100%;
+    width: 100%;
+    
+}
+
+.logo2 img{
+    height: 100px;
+    width: 100px;
+}
