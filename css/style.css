@@ -1,6 +1,14 @@
 .menu-bar{
 
-    background-color: aquamarine;
+    background-color: rgb(37, 218, 250);
+   
+}
+body{
+    background-color: rgb(216, 210, 210);
+}
+.btn-all{
+
+    background-image: linear-gradient(55deg, #33ccff, #66ff33);
 }
 
 .div1{
@@ -32,24 +40,37 @@
     border: 0;
     height: 20%;
 }
+
+.casual-shoes{
+    
+    margin-top: 80px;
+}
+
+.formal-shoe{
+    
+    margin-top: 80px;
+}
 .penguin-card{
     border: 0;
-    box-shadow: 10px 20px 30px lightseagreen;
+    box-shadow: 10px 20px 30px rgb(76, 80, 80);
+    background-color:rgb(250, 242, 227);
 }
 .penguin-card img{
 
-    background-color: rgb(194, 194, 194);
+    background-color: rgba(226, 222, 222, 0.966);
     border-radius: 5px;
     width: 100%;
     height: 60%;
 
 }
-.penguin-card2{
-    border: 0;
-}
+
 
 .botom-div1{
     font-size: 13px;
+}
+
+.logo2{
+    margin-top: 10px;
 }
 
 .logo2 img{
@@ -66,4 +87,21 @@
 .logo2 img{
     height: 100px;
     width: 100px;
+
+}
+
+.description h5 p{
+
+    margin-left: 10px;
+}
+.last-part{
+    margin-top: 80px;
+    box-shadow: indigo;
+    padding: 10px;
+}
+
+.last-div{
+    
+    padding: 10px;
+    
 }
